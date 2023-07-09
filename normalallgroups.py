@@ -1,9 +1,9 @@
 bl_info = {
-    "name": "Normalize All Locked Groups",
-    "description": "Runs 'Normalize All' on the locked groups of a given mesh.",
+    "name": "Beef's Blender Tools",
+    "description": "Tools and scripts to help with VRChat avatar Creation.",
     "author": "Beef",
     "version": (1, 0),
-    "blender": (3, 4, 1),
+    "blender": (3, 4, 0),
     "location": "View3D > Object",
     "category": "Object", 
 }
